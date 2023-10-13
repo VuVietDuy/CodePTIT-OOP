@@ -1,4 +1,4 @@
-package KiemTraGiuaKy.Bai2;
+package BaiTapTrenLop.KiemTraGiuaKy.Bai2;
 
 import javax.swing.*;
 import java.awt.*;

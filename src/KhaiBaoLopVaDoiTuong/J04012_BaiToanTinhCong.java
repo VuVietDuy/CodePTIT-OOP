@@ -1,3 +1,5 @@
+package KhaiBaoLopVaDoiTuong;
+
 public class J04012_BaiToanTinhCong {
     public static void main(String[] args) {
 

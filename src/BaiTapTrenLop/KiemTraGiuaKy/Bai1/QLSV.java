@@ -1,4 +1,4 @@
-package KiemTraGiuaKy.Bai1;
+package BaiTapTrenLop.KiemTraGiuaKy.Bai1;
 
 import java.util.Scanner;
 

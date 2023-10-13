@@ -1,4 +1,4 @@
-package KiemTraGiuaKy.Bai3;
+package BaiTapTrenLop.KiemTraGiuaKy.Bai3;
 
 import java.util.Scanner;
 public class Main {

@@ -1,3 +1,5 @@
+package KhaiBaoLopVaDoiTuong;
+
 import java.util.Scanner;
 
 public class J04015_TinhThuNhapGiaoVien {
