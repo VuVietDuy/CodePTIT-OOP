@@ -2,7 +2,7 @@ package XauKyTu;
 
 import java.util.Scanner;
 
-public class J03004_ChuanHoaXauHoTen {
+public class J03004_ChuanHoaXauHoTen1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int cases = sc.nextInt();
