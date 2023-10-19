@@ -1,0 +1,6 @@
+Ngoại lệ trong java là một vấn đề phát sinh trong quá
+trình thực thi chương trình. Khi xảy ra ngoại lệ, luồng
+xử lý (flow) bị gián đoạn, chương trình/ứng dụng dừng
+bất thường. Nó là một đối tượng được ném ra tại runtime
+
+
